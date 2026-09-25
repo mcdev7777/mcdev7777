@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm a Tech Hunter!!!
+# 👋 Hi, I'm an AI Full Stack Engineer
 
-### Senior Full Stack Engineer · AI Automation Builder · Cloud & Product-Focused Developer
+### AI Products · LLM Applications · RAG · Agents · Full-Stack Product Engineering
 
-I build clean, scalable, and production-ready software across modern web, backend, AI, automation, and cloud systems.
+I build **production-ready AI products** from intelligent backend systems to polished user experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+FastAPI;AI+%7C+RAG+%7C+Automation+%7C+Integrations;Rust+%7C+Go+%7C+C%23+%7C+Ruby+on+Rails;Clean+Architecture+%7C+Performance+%7C+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=AI+Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Python+%7C+FastAPI;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Vector+Search;OpenAI+%7C+Claude+%7C+LangChain+%7C+LangGraph;Building+Production-Ready+AI+Products" alt="Typing SVG" />
 
 </div>
 
@@ -14,69 +14,65 @@ I build clean, scalable, and production-ready software across modern web, backen
 
 ## 🚀 About Me
 
-I’m a **Full Stack Engineer** focused on building reliable, maintainable, and user-friendly applications from idea to production.
+I’m an **AI Full Stack Engineer** focused on building intelligent products that combine modern web engineering with practical AI.
 
-I enjoy working across the full product lifecycle — designing clean UI, building robust APIs, connecting third-party services, optimizing performance, and adding AI-powered workflows that make products smarter and more useful.
+I work across the complete product lifecycle — designing polished interfaces, building scalable APIs, integrating LLMs, developing RAG and agentic workflows, connecting external tools, and deploying reliable AI applications to production.
 
 My main focus areas are:
 
-- ⚡ **Modern Web Apps** with React, Next.js, TypeScript, Vue, Angular, Tailwind CSS
-- 🧠 **AI Products** using OpenAI, Claude, LangChain, RAG pipelines, vector databases, and automation agents
-- 🔧 **Backend Systems** with Node.js, Python/FastAPI, Django, Ruby on Rails, Go, Rust, C#/.NET
-- 🛒 **E-commerce & CMS** with Shopify, WooCommerce, WordPress, Drupal, and headless architectures
-- ☁️ **Cloud & DevOps** with AWS, GCP, Docker, CI/CD, PostgreSQL, MongoDB, Redis, and scalable deployments
-- 🔗 **Automation & Integration** with Stripe, GitHub APIs, Slack, Jira, Make.com, n8n, Webhooks, and custom workflows
+* 🧠 **AI Applications** with OpenAI, Claude, LangChain, LangGraph, RAG, embeddings, and AI agents
+* ⚡ **AI-First Web Products** with React, Next.js, TypeScript, and Tailwind CSS
+* 🔧 **AI Backend Systems** with Python, FastAPI, Node.js, REST APIs, WebSockets, and background jobs
+* 🔎 **Retrieval & Knowledge Systems** with PostgreSQL, pgvector, vector databases, semantic search, and hybrid retrieval
+* 🤖 **Agentic Workflows** with tool calling, MCP, structured outputs, human-in-the-loop flows, and external integrations
+* ☁️ **Production AI Infrastructure** with AWS, Docker, Kubernetes, Redis, CI/CD, observability, and scalable deployments
 
 ---
 
 ## 🧩 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cs,ruby,php,java,solidity" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,html,css,tailwind,bootstrap,materialui,vite" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,rails,dotnet,laravel,spring,graphql" />
-</p>
-
-### AI / Automation
+### AI / LLM Engineering
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=readthedocs&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=protocols&logoColor=white" />
 </p>
 
-### Database / Cloud / DevOps
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,aws,gcp,azure,docker,kubernetes,githubactions,vercel,netlify,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,python,js" />
 </p>
 
-### CMS / E-commerce / Payments
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs" />
+</p>
+
+### Data / Vector Search
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Search-111827?style=for-the-badge&logo=semanticweb&logoColor=white" />
+</p>
+
+### Cloud / DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel,nginx" />
 </p>
 
 ---
@@ -86,22 +82,22 @@ My main focus areas are:
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 Full Stack Platforms</h3>
-      <p>Scalable SaaS apps, dashboards, admin portals, marketplaces, booking systems, and API-connected business tools.</p>
+      <h3>🧠 AI-Powered Products</h3>
+      <p>AI-native SaaS, copilots, intelligent assistants, document intelligence, semantic search, and LLM-powered product experiences.</p>
     </td>
     <td width="50%">
-      <h3>🧠 AI-Powered Products</h3>
-      <p>RAG apps, document chat, AI assistants, automation agents, codebase analyzers, and intelligent workflow tools.</p>
+      <h3>🔎 RAG & Knowledge Systems</h3>
+      <p>Document ingestion, embeddings, vector search, hybrid retrieval, context pipelines, grounded responses, and knowledge assistants.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛒 Commerce & CMS</h3>
-      <p>Shopify, WooCommerce, WordPress, Drupal, headless storefronts, custom product flows, and conversion-focused UI.</p>
+      <h3>🤖 AI Agents & Workflows</h3>
+      <p>Tool-calling agents, LangGraph workflows, MCP integrations, structured outputs, human approval flows, and intelligent automation.</p>
     </td>
     <td width="50%">
-      <h3>⚙️ Backend & Integrations</h3>
-      <p>REST/GraphQL APIs, WebSockets, payment systems, cloud storage, third-party integrations, webhooks, and CI/CD pipelines.</p>
+      <h3>⚡ Full-Stack AI Platforms</h3>
+      <p>Next.js interfaces, FastAPI and Node.js services, PostgreSQL, realtime features, authentication, cloud deployment, and observability.</p>
     </td>
   </tr>
 </table>
@@ -111,37 +107,69 @@ My main focus areas are:
 ## 💡 Favorite Engineering Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance_Optimization-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Workflows-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scalable_APIs-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Realtime_Systems-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud_Deployment-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_&_Semantic_Search-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack_AI-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Evals-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production_AI-F59E0B?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🤝 When Working With Me, You Can Expect
 
-- ✅ Clear communication and fast understanding of product goals
-- ✅ Clean, readable, maintainable code
-- ✅ Strong ownership from planning to deployment
-- ✅ Careful attention to UX, performance, and edge cases
-- ✅ Practical AI usage to speed up development without sacrificing quality
-- ✅ Reliable collaboration with product, design, and engineering teams
+* ✅ Strong ownership from product idea to production deployment
+* ✅ Clean, readable, maintainable full-stack code
+* ✅ Practical AI architecture instead of unnecessary complexity
+* ✅ Careful handling of LLM reliability, edge cases, latency, and cost
+* ✅ Strong attention to product UX around AI-powered features
+* ✅ Reliable collaboration across product, design, AI, and engineering teams
 
 ---
 
 ## 📌 Featured Project Directions
 
 ```txt
-AI / RAG Systems         → FastAPI, LangChain, OpenAI, pgvector, Next.js
-SaaS Dashboards          → React, TypeScript, Node.js, PostgreSQL, Stripe
-Realtime Apps            → WebSockets, Redis, Go, Node.js, React
-Headless Commerce        → Shopify, WooCommerce, WordPress, Next.js
-Cloud Platforms          → AWS, GCP, Docker, CI/CD, Kubernetes
-Automation Workflows     → Make.com, n8n, GitHub API, Slack/Jira APIs
+AI SaaS Products          → Next.js, TypeScript, FastAPI, OpenAI, PostgreSQL
+RAG / Knowledge Systems   → Python, LangChain, pgvector, Embeddings, Next.js
+AI Agents                 → LangGraph, Tool Calling, MCP, APIs, Human-in-the-Loop
+AI Search                 → Embeddings, Semantic Search, Hybrid Retrieval, Reranking
+LLM Backend Platforms     → FastAPI, Node.js, Redis, PostgreSQL, Background Jobs
+Production AI             → AWS, Docker, Kubernetes, CI/CD, Evals, Observability
 ```
+
+---
+
+## 🧠 How I Think About AI Engineering
+
+<p align="center">
+
+**Great AI products need more than a good prompt.**
+
+</p>
+
+```txt
+User Experience
+      ↓
+React / Next.js
+      ↓
+API & Application Logic
+      ↓
+LLM / Agent Orchestration
+      ↓
+RAG ─── Tool Calling ─── External APIs
+      ↓
+Structured Output / Validation
+      ↓
+PostgreSQL / Vector Search / Redis
+      ↓
+Evals · Observability · Guardrails
+      ↓
+AWS / Docker / Production
+```
+
+I focus on the engineering around the model — **context, retrieval, orchestration, validation, evaluation, reliability, latency, cost, and user experience.**
 
 ---
 
@@ -164,29 +192,35 @@ Automation Workflows     → Make.com, n8n, GitHub API, Slack/Jira APIs
 
 ```yaml
 Building:
-  - AI-powered SaaS products
-  - RAG and automation platforms
-  - Modern full-stack dashboards
-  - Cloud-ready backend systems
+  - AI-native SaaS products
+  - RAG and knowledge platforms
+  - AI agents and agentic workflows
+  - Full-stack LLM applications
 
-Improving:
-  - System architecture
-  - Developer experience
-  - Performance and scalability
-  - Product-focused AI integration
+Engineering:
+  - LLM orchestration
+  - Retrieval and vector search
+  - AI evals and guardrails
+  - Production reliability and observability
+
+Exploring:
+  - MCP ecosystems
+  - Multi-agent systems
+  - Multimodal AI
+  - Advanced retrieval strategies
 
 Open To:
-  - Full Stack Engineering
+  - AI Full Stack Engineering
   - AI Product Engineering
-  - Backend / Cloud Engineering
-  - Automation & Integration Projects
+  - Applied AI Engineering
+  - LLM / RAG / Agentic AI Projects
 ```
 
 ---
 
 <div align="center">
 
-### “Build software that is simple to use, easy to maintain, and powerful enough to scale.”
+### “Building intelligent products where AI meets great software engineering.”
 
 <br />
 
@@ -194,6 +228,7 @@ Open To:
 
 <br /><br />
 
-**Thanks for visiting my profile. Let’s build something great. 🚀**
+**Thanks for visiting my profile. Let’s build something intelligent. 🚀**
 
 </div>
+
