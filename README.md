@@ -141,38 +141,6 @@ Production AI             → AWS, Docker, Kubernetes, CI/CD, Evals, Observabili
 
 ---
 
-## 🧠 How I Think About AI Engineering
-
-<p align="center">
-
-**Great AI products need more than a good prompt.**
-
-</p>
-
-```txt
-User Experience
-      ↓
-React / Next.js
-      ↓
-API & Application Logic
-      ↓
-LLM / Agent Orchestration
-      ↓
-RAG ─── Tool Calling ─── External APIs
-      ↓
-Structured Output / Validation
-      ↓
-PostgreSQL / Vector Search / Redis
-      ↓
-Evals · Observability · Guardrails
-      ↓
-AWS / Docker / Production
-```
-
-I focus on the engineering around the model — **context, retrieval, orchestration, validation, evaluation, reliability, latency, cost, and user experience.**
-
----
-
 ## 🧭 Current Focus
 
 ```yaml
